@@ -3,6 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <title>Сьогодення</title>
+    <style>
+        ul.firstList > li:nth-child(odd){
+            background-color: gray;
+        }
+        ul.firstList > li:nth-child(odd) li:nth-child(odd){
+            background-color: white;
+        }
+        ul.firstList > li:nth-child(even){
+            background-color: white;
+        }
+        ul.firstList > li:nth-child(even) li:nth-child(odd){
+            background-color: gray;
+        }
+        ol.secondList > li:nth-child(4){
+            background-color:red;
+        }
+        ol.secondList > li:nth-child(3):hover, ol.secondList > li:nth-child(5):hover{
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
 <h1>Сьогодення Гавриленка Олексія Володимировича</h1>
@@ -11,7 +31,7 @@
 
 <article>
 <h2>Мій типовий список покупок</h2>
-<ul>
+<ul class="firstlist">
     <li>Солодощі</li>
     <ul>
         <li>Вафлі Артек</li>
@@ -35,7 +55,7 @@
 </article>
 <article>
 <h2>Мій улюблений десерт-Налисники</h2>
-<ol>
+<ol class="secondlist">
     <li>Приготувати тісто: 
         <ol>
             <li>Закинути 0,5 кг борошна</li>
