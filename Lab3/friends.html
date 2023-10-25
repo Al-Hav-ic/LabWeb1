@@ -4,6 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Головна</title>
+    <style>
+        tbody tr:nth-child(odd) td{
+            background-color: gray;
+        }
+        table{
+            border-collapse: collapse;
+        }
+        table td,th{
+            border: solid black 2px;
+            text-align: center;
+            padding: 2px;
+        }
+    </style>
 </head>
 <body>
 <h1>Друзі Гавриленка Олексія Володимировича</h1>
@@ -14,6 +27,7 @@
 
 <table>
     <caption>Друзі</caption>
+    <thead>
     <tr>
         <th>Прізвище</th>
         <th>Ім'я</th>
@@ -21,6 +35,8 @@
         <th>Адреса проживання</th>
         <th>Контактний телефон</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>Кікірко</td>
         <td>Василь</td>
@@ -49,5 +65,6 @@
         <td>м.Коломия</td>
         <td>066389438</td>
     </tr>
+</tbody>
 </table>
 </body>
