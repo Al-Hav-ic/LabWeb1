@@ -6,9 +6,56 @@
     <meta charset="utf-8">
     <title>Біографія</title>
     <style>
-        ul a {
-            color:orange;
-        }
+       ul.links a{
+        text-decoration: none;
+    }
+    ul.links li{
+        list-style: none;
+        width:130px;
+        border: solid black 2px;
+        background-color: blue;
+        margin-bottom: 2px;
+    }
+    ul.links a:link{
+        color:yellow;
+    }
+    ul.links a:visited{
+        color:coral;
+    }
+    ul.links li:hover{
+        background-color: magenta;
+    }
+    ul.links li:hover a{
+        color:lime !important;
+    }
+    ul.links li:active{
+        background-color: yellow;
+    }
+    ul.links li:active a{
+        color: blue !important;
+    }
+    #BaseInform > p{
+        background-color: pink;
+        color:blue;
+    }
+    #Childhood > p{
+        background-color: black;
+        color:orangered;
+    }
+    #Schoolyears > p{
+        background-color: orange;
+        color:purple;
+    }
+    #beyondSchool > p{
+        background-color: green;
+        color:white;
+    }
+    #University > p{
+        background-color: turquoise;
+        color:red;
+    }
+
+
     </style>
 </head>
 
@@ -17,7 +64,7 @@
 <a href = "index.html">Назад на головну"</a>
 
 <h2 id="content">"Зміст"</h2>
-<ul>
+<ul class="links">
     <li><a href = "#BaseInform">Базова інформація</a></li>
     <li><a href = "#Childhood">Дитинство</a></li>
     <li><a href = "#Schoolyears">Шкільні роки</a></li>
