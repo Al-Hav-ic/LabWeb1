@@ -1,6 +1,7 @@
 div{
     float: left;
     background-color: orangered    ;
+}
 h1{
   text-align: center;  
 }
@@ -15,12 +16,6 @@ h1{
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     padding: 2%;
-<<<<<<< HEAD
-    
-=======
-    
-   
->>>>>>> 3727f97394d6cd366b91e11757a3c9c884a61e82
     }
     .col-lg-1 {
     width: 8.33%;
@@ -67,14 +62,7 @@ h1{
     float: left;
     
     padding: 2%;
-<<<<<<< HEAD
-   
-    
-=======
-    
-    border: 1px;
-    border-color: black;
->>>>>>> 3727f97394d6cd366b91e11757a3c9c884a61e82
+
     }
     .col-md-1 {
     width: 8.33%;
@@ -119,13 +107,6 @@ h1{
       float: left;
       
       padding: 2%;
-<<<<<<< HEAD
-      
-=======
-      
-      border: 1px;
-    border-color: black;
->>>>>>> 3727f97394d6cd366b91e11757a3c9c884a61e82
       }
       .col-mn-1 {
       width: 8.33%;
