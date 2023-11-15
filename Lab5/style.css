@@ -1,6 +1,4 @@
-.color{
-  background-color: orange;
-}
+
 h1{
   text-align: center;  
 }
@@ -15,7 +13,7 @@ h1{
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     padding: 2%;
-    
+    background-color: orange;
     }
     .col-lg-1 {
     width: 8.33%;
@@ -62,7 +60,7 @@ h1{
     float: left;
     
     padding: 2%;
-    
+    background-color: orange;
     
     }
     .col-md-1 {
@@ -108,7 +106,7 @@ h1{
       float: left;
       
       padding: 2%;
-     
+      background-color: orange;
       
       }
       .col-md-1 {
