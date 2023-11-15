@@ -12,6 +12,7 @@
     border: 2px solid black;
     display: block;
     width: 80px;
+    height: 40px;
     text-align: center;
 }
 .span_text_1{
@@ -49,7 +50,7 @@ h1{
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8,
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
-    padding: 2%;
+    padding: 5px;
     }
     .col-lg-1 {
     width: 8.33%;
@@ -95,7 +96,7 @@ h1{
     .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
     
-    padding: 2%;
+    padding: 5px;
 
     }
     .col-md-1 {
@@ -140,7 +141,7 @@ h1{
       .col-mn-9, .col-mn-10, .col-mn-11, .col-mn-12 {
       float: left;
       
-      padding: 2%;
+      padding: 5px;
       }
       .col-mn-1 {
       width: 8.33%;
