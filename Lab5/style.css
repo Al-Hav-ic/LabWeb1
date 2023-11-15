@@ -16,6 +16,7 @@ h1{
     padding: 2%;
     position: absolute;
     top: 1%; left: 1%;
+    background-color: darkorange;
     }
     .col-lg-1 {
     width: 8.33%;
@@ -64,6 +65,7 @@ h1{
     padding: 2%;
     position: absolute;
     top: 1%; left: 1%;
+    background-color: darkorange;
     }
     .col-md-1 {
     width: 8.33%;
@@ -110,6 +112,7 @@ h1{
       padding: 2%;
       position: absolute;
       top: 1%; left: 1%;
+      background-color: darkorange;
       }
       .col-md-1 {
       width: 8.33%;
