@@ -15,7 +15,7 @@ h1{
     float: left;
     padding: 2%;
     position: relative;
-    top: 40px; left: 40px;
+    top: 1%; left: 1%;
     }
     .col-lg-1 {
     width: 8.33%;
@@ -63,7 +63,7 @@ h1{
     
     padding: 2%;
     position: relative;
-    top: 40px; left: 40px;
+    top: 1%; left: 1%;
     }
     .col-md-1 {
     width: 8.33%;
@@ -109,7 +109,7 @@ h1{
       
       padding: 2%;
       position: relative;
-      top: 40px; left: 40px;
+      top: 1%; left: 1%;
       }
       .col-md-1 {
       width: 8.33%;
