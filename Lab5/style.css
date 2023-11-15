@@ -15,7 +15,8 @@ h1{
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     padding: 2%;
-    position: absolute;
+    position: relative;
+    
     top: 1%; left: 1%;
     
     }
@@ -64,7 +65,7 @@ h1{
     float: left;
     
     padding: 2%;
-    position: absolute;
+    position: relative;
     top: 1%; left: 1%;
     
     }
@@ -111,7 +112,7 @@ h1{
       float: left;
       
       padding: 2%;
-      position: absolute;
+      position: relative;
       top: 1%; left: 1%;
       
       }
