@@ -1,4 +1,6 @@
-
+div{
+    float: left;
+    background-color: orangered    ;
 h1{
   text-align: center;  
 }
@@ -13,7 +15,7 @@ h1{
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     padding: 2%;
-    background-color: orange;
+    
     border: 1px;
     border-color: black;
     }
@@ -62,7 +64,7 @@ h1{
     float: left;
     
     padding: 2%;
-    background-color: orange;
+    
     border: 1px;
     border-color: black;
     }
@@ -109,7 +111,7 @@ h1{
       float: left;
       
       padding: 2%;
-      background-color: orange;
+      
       border: 1px;
     border-color: black;
       }
