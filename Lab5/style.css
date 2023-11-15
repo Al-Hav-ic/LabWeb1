@@ -7,7 +7,7 @@
     text-align: center;
     margin-bottom: 22px;
 }
-.span_text_1, .span_text_2, .span_text_3{
+.text1, .text2, .text3{
     float: right;
     border: 2px solid black;
     display: block;
@@ -15,14 +15,14 @@
     height: 40px;
     text-align: center;
 }
-.span_text_1{
+.text1{
     background-color: magenta;
 }
-.span_text_2{
+.text2{
     background-color: lightsalmon;
     color:white;
 }
-.span_text_3{
+.text3{
     background-color: lightseagreen;
 }
 .block{
