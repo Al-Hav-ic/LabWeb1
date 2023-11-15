@@ -15,24 +15,24 @@
     text-align: center;
 }
 .span_text_1{
-    background-color: orange;
+    background-color: magenta;
 }
 .span_text_2{
-    background-color: maroon;
+    background-color: lightsalmon;
     color:white;
 }
 .span_text_3{
-    background-color: pink;
+    background-color: lightseagreen;
 }
 .block{
-    background-color:lightblue;
-    margin-left:10px;
-    margin-right:10px;
-    margin-bottom:20px;
+    background-color:orange;
+    margin-left:30px;
+    margin-right:30px;
+    margin-bottom:30px;
     border: 2px solid black;
 } 
 .block p{
-    padding: 20px;
+    padding: 15px;
 }
 
 
