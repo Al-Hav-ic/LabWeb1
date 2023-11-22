@@ -31,3 +31,29 @@ ol.secondList > li:nth-child(4){
 ol.secondList > li:nth-child(3):hover, ol.secondList > li:nth-child(5):hover{
     cursor: pointer;
 }
+.row {
+    width: 100%;
+    }
+    /* Large devices */
+    @media (min-width: 992px) {
+    .ff{
+        float: left;
+        padding: 5px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 992px) {
+        .ff{
+        float: left;
+        
+        padding: 5px;
+    
+        }
+    }
+    @media (max-width: 768px) {
+        .ff{
+        float: left;
+        
+        padding: 5px;
+    
+        }
+    }

@@ -36,3 +36,29 @@ color:orangered;
 a.Href4:visited{
 color:peru;
 } 
+.row {
+    width: 100%;
+    }
+    /* Large devices */
+    @media (min-width: 992px) {
+    .ff{
+        float: left;
+        padding: 5px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 992px) {
+        .ff{
+        float: left;
+        
+        padding: 5px;
+    
+        }
+    }
+    @media (max-width: 768px) {
+        .ff{
+        float: left;
+        
+        padding: 5px;
+    
+        }
+    }
