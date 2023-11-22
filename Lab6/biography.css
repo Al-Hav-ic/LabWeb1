@@ -156,7 +156,7 @@ ul.links li:active a{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    border:solid 1px;
+    
     
     }
     div.style1{
