@@ -39,6 +39,8 @@ color:peru;
 
 .row {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     }
     /* Large devices */
     @media (min-width: 992px) {
@@ -46,6 +48,7 @@ color:peru;
         .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12
         .flex-item {
             display: inline-block;
+            
         }
         .col-lg-1 {
         flex-basis: 8.33%;
@@ -91,6 +94,8 @@ color:peru;
     .flex-item  {
         display: inline-block;
         flex-wrap: wrap;
+    
+    
             }
     .col-md-1 {
         flex-basis: 8.33%;
