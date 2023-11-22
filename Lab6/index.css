@@ -37,6 +37,7 @@ a.Href4:visited{
 color:peru;
 } 
 .row {
+    width:100%;
     display: flex;
     }
     /* Large devices */
