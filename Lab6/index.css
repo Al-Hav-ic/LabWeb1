@@ -46,8 +46,6 @@ color:peru;
         .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12
         .flex-item {
             display: inline-block;
-        
-        
         }
         .col-lg-1 {
         flex-basis: 8.33%;
@@ -67,7 +65,6 @@ color:peru;
         .col-lg-6 {
             flex-basis: 50%;
         }
-        
         .col-lg-7 {
             flex-basis: 58.33%;
         }
@@ -75,7 +72,7 @@ color:peru;
             flex-basis: 66.66%;
         }
         .col-lg-9 {
-        width: 75%;
+            flex-basis: 75%;
         }
         .col-lg-10 {
             flex-basis: 83.33%;
@@ -94,9 +91,7 @@ color:peru;
     .flex-item  {
         display: inline-block;
         flex-wrap: wrap;
-           
-        
-        }
+            }
     .col-md-1 {
         flex-basis: 8.33%;
     }
@@ -110,7 +105,8 @@ color:peru;
         flex-basis: 33.33%;
     }
     .col-md-5 {
-    flex-basis: 41.66%;
+
+        flex-basis: 41.66%;
     }
     .col-md-6 {
         flex-basis: 50%;
