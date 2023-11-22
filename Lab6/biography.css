@@ -159,6 +159,54 @@ ul.links li:active a{
     border:1px;
     
     }
+    div.style1{
+        background-color: pink;
+    color:blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:1px;
+    }
+
+    div.style2{
+        background-color: black;
+    color:orangered;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:1px;
+    }
+
+    div.style3{
+        background-color: orange;
+    color:purple;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:1px;
+    }
+
+    
+    div.style4{
+        background-color: green;
+        color:white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:1px;
+    }
+
+    div.style5{
+        background-color: blueviolet;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:1px;
+    }
+
+
+
     /* Large devices */
     @media (min-width: 992px) {
         .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8,
