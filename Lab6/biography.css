@@ -162,14 +162,14 @@ ul.links li:active a{
     div.style1{
         background-color: pink;
     color:blue;
-    border:solid 1px;
+    border:solid black 1px;
     
     }
 
     div.style2{
         background-color: black;
     color:orangered;
-    border:solid 1px;
+    border:solid black 1px;
     
     
     }
@@ -177,7 +177,7 @@ ul.links li:active a{
     div.style3{
         background-color: orange;
     color:purple;
-    border:solid 1px;
+    border:solid black 1px;
     
    
     }
@@ -186,7 +186,7 @@ ul.links li:active a{
     div.style4{
         background-color: green;
         color:white;
-        border:solid 1px;
+        border:solid black 1px;
     
     
     }
@@ -194,7 +194,7 @@ ul.links li:active a{
     div.style5{
         background-color: blueviolet;
     color:white;
-    border:solid 1px;
+    border:solid black 1px;
     
    
     }
