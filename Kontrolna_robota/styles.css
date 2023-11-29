@@ -10,6 +10,20 @@ font-family: 'Caveat', cursive;
 font-family: 'Lobster', sans-serif;
 font-family: 'Vina Sans', sans-serif;*/
 
+section.s1{
+    background-color: chocolate;
+}
+section.s2{
+    background-color: greenyellow;
+}
+section.s3{
+    background-color: rebeccapurple;
+}
+section.s4{
+    background-color: blue;
+}
+
+
 h1{
     text-align: center;
     font-family: 'Amatic SC', sans-serif;
