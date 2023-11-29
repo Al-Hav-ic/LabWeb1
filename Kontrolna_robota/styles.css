@@ -38,7 +38,9 @@ h2.styleh2{
 h2.voo{
     font-size: 36px ;
 }
-
+thead th{
+    color: darkred;
+}
 h1{
     text-align: center;
     font-family: 'Amatic SC', sans-serif;
