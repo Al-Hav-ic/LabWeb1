@@ -12,15 +12,19 @@ font-family: 'Vina Sans', sans-serif;*/
 
 section.s1{
     background-color: chocolate;
+    color: black;
 }
 section.s2{
     background-color: black;
+    color: orangered;
 }
 section.s3{
     background-color: rebeccapurple;
+    color: white;
 }
 section.s4{
     background-color: blue;
+    color: white;
 }
 
 h2.styleh2{
