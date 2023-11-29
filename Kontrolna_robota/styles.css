@@ -29,7 +29,9 @@ h2.styleh2{
     color:antiquewhite;
     width: 150px;
     float: right;
-    
+}
+h2.voo{
+    font-size: 120% ;
 }
 
 h1{
