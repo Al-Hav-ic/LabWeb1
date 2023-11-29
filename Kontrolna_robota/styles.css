@@ -14,7 +14,7 @@ section.s1{
     background-color: chocolate;
 }
 section.s2{
-    background-color: greenyellow;
+    background-color: black;
 }
 section.s3{
     background-color: rebeccapurple;
@@ -25,6 +25,7 @@ section.s4{
 
 h2.styleh2{
     color:antiquewhite
+    
 }
 
 h1{
