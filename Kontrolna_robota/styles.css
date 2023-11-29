@@ -53,6 +53,7 @@ h1{
 .row{
     flex-direction: row;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .img{
