@@ -24,7 +24,9 @@ section.s4{
 }
 
 h2.styleh2{
-    color:antiquewhite
+    color:antiquewhite;
+    width: 150px;
+    float: right;
     
 }
 
