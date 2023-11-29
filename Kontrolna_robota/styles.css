@@ -48,6 +48,7 @@ h1{
 
 .container{
     display:flex;
+    
 }
 
 .row{
@@ -116,6 +117,10 @@ h1{
 
 /* medium devices */
 @media (min-width: 768px) and (max-width: 992px) {
+    
+    :nth-child(4){
+        flex: 3;
+    }
     .col-md-1 {
         flex-basis: 8.33%;
     }
